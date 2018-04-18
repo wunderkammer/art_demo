@@ -1,1 +1,1 @@
-Art demo
+Art demo for Museum API
